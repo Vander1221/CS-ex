@@ -1,0 +1,14 @@
+C:\Users\HorowoGG\Desktop\ex\nov\bin\Debug\net8.0\nov.exe
+C:\Users\HorowoGG\Desktop\ex\nov\bin\Debug\net8.0\nov.deps.json
+C:\Users\HorowoGG\Desktop\ex\nov\bin\Debug\net8.0\nov.runtimeconfig.json
+C:\Users\HorowoGG\Desktop\ex\nov\bin\Debug\net8.0\nov.dll
+C:\Users\HorowoGG\Desktop\ex\nov\bin\Debug\net8.0\nov.pdb
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\nov.AssemblyInfoInputs.cache
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\nov.AssemblyInfo.cs
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\nov.csproj.CoreCompileInputs.cache
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\nov.dll
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\refint\nov.dll
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\nov.pdb
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\nov.genruntimeconfig.cache
+C:\Users\HorowoGG\Desktop\ex\nov\obj\Debug\net8.0\ref\nov.dll

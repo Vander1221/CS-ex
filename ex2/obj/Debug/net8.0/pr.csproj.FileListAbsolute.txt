@@ -1,0 +1,14 @@
+C:\Users\HorowoGG\Desktop\ex\ex2\bin\Debug\net8.0\pr.exe
+C:\Users\HorowoGG\Desktop\ex\ex2\bin\Debug\net8.0\pr.deps.json
+C:\Users\HorowoGG\Desktop\ex\ex2\bin\Debug\net8.0\pr.runtimeconfig.json
+C:\Users\HorowoGG\Desktop\ex\ex2\bin\Debug\net8.0\pr.dll
+C:\Users\HorowoGG\Desktop\ex\ex2\bin\Debug\net8.0\pr.pdb
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\pr.AssemblyInfoInputs.cache
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\pr.AssemblyInfo.cs
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\pr.csproj.CoreCompileInputs.cache
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\pr.dll
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\refint\pr.dll
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\pr.pdb
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\pr.genruntimeconfig.cache
+C:\Users\HorowoGG\Desktop\ex\ex2\obj\Debug\net8.0\ref\pr.dll

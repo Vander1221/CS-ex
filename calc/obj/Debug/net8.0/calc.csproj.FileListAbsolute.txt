@@ -1,0 +1,14 @@
+C:\Users\HorowoGG\Desktop\ex\calc\bin\Debug\net8.0\calc.exe
+C:\Users\HorowoGG\Desktop\ex\calc\bin\Debug\net8.0\calc.deps.json
+C:\Users\HorowoGG\Desktop\ex\calc\bin\Debug\net8.0\calc.runtimeconfig.json
+C:\Users\HorowoGG\Desktop\ex\calc\bin\Debug\net8.0\calc.dll
+C:\Users\HorowoGG\Desktop\ex\calc\bin\Debug\net8.0\calc.pdb
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\calc.AssemblyInfoInputs.cache
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\calc.AssemblyInfo.cs
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\calc.csproj.CoreCompileInputs.cache
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\calc.dll
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\refint\calc.dll
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\calc.pdb
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\calc.genruntimeconfig.cache
+C:\Users\HorowoGG\Desktop\ex\calc\obj\Debug\net8.0\ref\calc.dll
