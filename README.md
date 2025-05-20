@@ -22,12 +22,12 @@
 Задача 5: Удаление дубликатов из списка
 Напишите метод, который принимает список и возвращает новый список без дубликатов. папка: (https://github.com/Vander1221/CS-ex/tree/main/ex5)
 
-задание 1 CodePen: папка ()
+задание 1 Code-Run: папка (https://github.com/Vander1221/CS-ex/blob/main/Code-run/Exercise1.cs)
 
-задание 2 CodePen: папка ()
+задание 2 Code-Run: папка (https://github.com/Vander1221/CS-ex/blob/main/Code-run/Exercise2.cs)
 
-задание 3 CodePen: папка ()
+задание 3 CodePen: папка (https://github.com/Vander1221/CS-ex/blob/main/Code-run/Exercise3.cs)
 
-задание 4 CodePen: папка ()
+задание 4 CodePen: папка (https://github.com/Vander1221/CS-ex/blob/main/Code-run/Exercise4.cs)
 
-задание 5 CodePen: папка ()
+задание 5 CodePen: папка (https://github.com/Vander1221/CS-ex/blob/main/Code-run/Exercise5.cs)
