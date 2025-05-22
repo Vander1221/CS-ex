@@ -1,33 +1,20 @@
-﻿using System; //решает квадратное уравнение вида ax² + bx + c = 0 и выводит количество действительных корней и сами корни (если они существуют)
+﻿using System; //CodeRun: Треугольник
 
-class Program
+public class TriangleCheck
 {
-    static void Main()
+    public static void Main(string[] args)
     {
-        string[] input = Console.ReadLine().Split();
-        int a = int.Parse(input[0]);
-        int b = int.Parse(input[1]);
-        int c = int.Parse(input[2]);
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        int c = int.Parse(Console.ReadLine());
 
-        double discriminant = b * b - 4 * a * c;
-
-        if (discriminant > 0)
+        if (a + b > c && a + c > b && b + c > a)
         {
-            double sqrtDiscriminant = Math.Sqrt(discriminant);
-            double root1 = (-b - sqrtDiscriminant) / (2 * a);
-            double root2 = (-b + sqrtDiscriminant) / (2 * a);
-            Console.WriteLine(2);
-            Console.WriteLine($"{Math.Min(root1, root2)} {Math.Max(root1, root2)}");
-        }
-        else if (discriminant == 0)
-        {
-            double root = -b / (2.0 * a);
-            Console.WriteLine(1);
-            Console.WriteLine(root);
+            Console.WriteLine("YES");
         }
         else
         {
-            Console.WriteLine(0);
+            Console.WriteLine("NO");
         }
     }
 }
