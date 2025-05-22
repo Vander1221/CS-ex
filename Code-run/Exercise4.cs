@@ -1,26 +1,21 @@
-﻿using System; //решает задачу подсчета количества "локальных максимумов" в последовательности чисел
-using System.Collections.Generic;
+﻿using System; //CodeRun: Больше своих соседей
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-internal class Program
+public class CountElements
 {
-    static void Main(string\[] args)
+    public static void Main(string[] args)
     {
-
-    string[] numbers = Console.ReadLine().Split();
+        int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
         int count = 0;
 
         for (int i = 1; i < numbers.Length - 1; i++)
         {
-
-            if (Convert.ToInt64(numbers[i]) > Convert.ToInt64(numbers[i - 1]) && Convert.ToInt64(numbers[i]) > Convert.ToInt64(numbers[i + 1]))
+            if (numbers[i] > numbers[i - 1] && numbers[i] > numbers[i + 1])
+            {
                 count++;
+            }
         }
 
         Console.WriteLine(count);
-
-
     }
 }
