@@ -1,27 +1,33 @@
-﻿using System; //проверяет, можно ли из трех заданных чисел составить треугольник
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
-
-internal class Program
+public class QuadraticEquation
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
+        string[] input = Console.ReadLine().Split();
+        double a = double.Parse(input[0]);
+        double b = double.Parse(input[1]);
+        double c = double.Parse(input[2]);
 
-        int a = Convert.ToInt32(Console.ReadLine());
-        int b = Convert.ToInt32(Console.ReadLine());
-        int c = Convert.ToInt32(Console.ReadLine());
+        double discriminant = b * b - 4 * a * c;
 
-        if (a + b > c && a + c > b && b + c > a)
+        if (discriminant < 0)
         {
-            Console.WriteLine("Да");
+            Console.WriteLine(0);
+        }
+        else if (discriminant == 0)
+        {
+            double x = -b / (2 * a);
+            Console.WriteLine(1);
+            Console.WriteLine($"{x:F6}");
         }
         else
         {
-            Console.WriteLine("Нет");
-        }
+            double x1 = (-b - Math.Sqrt(discriminant)) / (2 * a);
+            double x2 = (-b + Math.Sqrt(discriminant)) / (2 * a);
 
+            Console.WriteLine(2);
+            Console.WriteLine($"{Math.Min(x1, x2):F6} {Math.Max(x1, x2):F6}");
+        }
     }
 }
