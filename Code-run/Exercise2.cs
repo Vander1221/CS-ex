@@ -1,4 +1,4 @@
-﻿using System; //CodeRun: Треугольник
+﻿using System;
 
 public class TriangleCheck
 {
