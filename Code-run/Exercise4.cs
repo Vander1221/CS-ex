@@ -1,4 +1,4 @@
-﻿using System; //CodeRun: Больше своих соседей
+﻿using System; 
 using System.Linq;
 
 public class CountElements
